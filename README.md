@@ -28,7 +28,7 @@ resources:
 ```yaml
 type: custom:mmwave-room-card
 title: Quarto
-prefix: sensor.quarto_everything_presence_lite_91f114
+prefix: sensor.everything_presence_lite
 room:
   pos_x: -2500
   pos_y: 0
