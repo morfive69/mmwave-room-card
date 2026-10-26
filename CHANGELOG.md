@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.0.0
+## 1.0.0
 
 **Correções**
 - Estilos isolados em Shadow DOM: o CSS do card já não afeta outros cards (antes `svg`, `.grid`, `.info`… eram globais).
